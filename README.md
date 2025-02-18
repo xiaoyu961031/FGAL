@@ -1,2 +1,2 @@
-# FA-AL
+# Feature-guided Active learning
 up-coming
